@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">currently, I am a Jr. IT Software Engineer @ Itaú Unibanco, primarily working with AWS, Data Modelling, Data Pipelines and Backend Engineering with Node.JS and Java.</h6>
+<h6 align="left">currently, I am a Jr. IT Software Engineer @ Itaú Unibanco, primarily working with AWS, Data Modelling, Data Pipelines and Backend Engineering with Typescript and Java.</h6>
 
 ###
 
