@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">currently, I am a Jr. IT Software Engineer @ Itaú Unibanco, primarily working with AWS, Data Modelling, Data Pipelines and APIs.</h6>
+<h6 align="left">currently, I am a Jr. IT Software Engineer @ Itaú Unibanco, primarily working with AWS, Data Modelling, Data Pipelines and Backend Engineering with Node.JS and Java.</h6>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left">today I am looking for a position in AI, ML or Data Engineering </h6>
+<h6 align="left">.</h6>
 
 ###
 
